@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ian Joseph Kamau
 - 👀 I’m interested in working to make the African gaming market grow to tap into the huge global market.
 - 🌱 I’m currently learning some backend frameworks like .NET, Springboot and also database frameworks like Mysql, SqlServer and working with different ORM's like Entity Framework and MongoDb.
-- 💞️ I’m looking to collaborate on any .net projects, specifically .net core, MVC and WebApi.
+- 💞️ I’m looking to collaborate on any .net projects, specifically .net core MVC, Blazor Server and WASM and Api.
 - 📫 You can reach me at kamauian001@gmail.com
 
 <!---
