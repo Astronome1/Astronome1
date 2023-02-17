@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian Joseph Kamau
 - 👀 I’m interested in learning and growing in my developer journey.
-- 🌱 I’m currently work with mainly with the .NET framework and database frameworks like Mysql, SqlServer and working with different ORM's like Entity and dapper. I am also working with MongoDb.
+- 🌱 I’m mainly work with the .NET framework and database frameworks like Mysql, SqlServer and working with different ORM's like Entity and dapper. I am also working with MongoDb.
 - 💞️ I’m looking to collaborate on any .net projects, specifically Blazor Server and WASM, MAUI and both WebApi and MinimalAPI projects.
 - 📫 You can reach me at kamauian001@gmail.com
 
